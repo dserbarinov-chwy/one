@@ -3,6 +3,14 @@ _Micro-Frontends POC with React and Vue_
 
 The goal here is to use multiple frameworks in a single-page application.
 
+## Install
+
+`npm install`
+
+## Run
+
+`npm start`
+
 ## Design Decisions
 
 ### Switching between micro-frontends via a JS router
